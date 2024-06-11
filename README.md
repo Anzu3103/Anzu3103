@@ -1,6 +1,6 @@
 - Hi, I’m Elsa Suxo
-- I’m interested in IT Support, Cybersecurity and data management.
-- I’m currently studying Computer Engineering.
+- I’m interested in Computer System Administration, IT Support and Cybersecurity.
+- I’m Computer Engineering.
 - On this Github you can see some projects that I have done during my career (individual and team).
 
 <!---
